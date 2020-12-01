@@ -12,7 +12,7 @@ import (
 	"testing"
 )
 
-// Test that a GET request to the login page returns
+// Test that a GET request to the login page returnssdfsdf
 // an HTTP error with code 401 for an authenticated user
 func TestShowLoginPageAuthenticated(t *testing.T) {
 	// Create a response recorder
